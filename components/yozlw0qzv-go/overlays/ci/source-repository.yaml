@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: yozlw0qzv-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/yozlw0qzv-go
